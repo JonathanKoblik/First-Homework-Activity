@@ -1,4 +1,4 @@
-Fintech Case Study: Shopify Inc.
+##Fintech Case Study: Shopify Inc.
 
 Author: Jonathan Koblik
 
