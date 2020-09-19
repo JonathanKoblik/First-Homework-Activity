@@ -1,8 +1,8 @@
-## Fintech Case Study: Shopify Inc.
+# Fintech Case Study: Shopify Inc.
 
-Author: Jonathan Koblik
+## Author: Jonathan Koblik
 
-Overview and Origin
+### Overview and Origin
 
 Shopify Inc. is a groundbreaking Canadian e-commerce success story, founded in Ottawa, Canada, in 2006. Tobias Lütke, Daniel Weinand, and Scott Lake initially tried to launch an online store selling snowboarding equipment called Snowdevil in 2004, however, 2 years later they launched a revised platform which gave way to the existing name of Shopify. Shopify is an e-commerce platorm for online stores and retail point-of-sale systems, offering an array of services providing turn-key solutions to its online merchants.
 The company received $7 million from an initial series A round of venture capital financing in December 2010. The next, a Series B round, raised $15 million in October 2011. The company then received an additional $100 million in Series C funding in December 2013.
@@ -10,7 +10,7 @@ Shopify went public on May 21, 2015, and in its debut on the New York Stock Exch
 
 The company (SHOP.TO) currently has a share price of $1,233.88 CAD, with a market cap of $143.3B CAD.
 
-Business Activities
+### Business Activities
 
 Shopify is an all-inclusive online selling platform and wants to make hosting an e-commerce store seamless and affordable, with a very transparent payment structure. This can aid retailers in transitioning from the ever-failing brick and mortar approach and enter the new standard of selling online. At their point of launch, the existing e-commerce platforms weren't as user friendly, comprehensive and transparent in their payment structures. Shopify is essentially a one-stop-shop for helping get a business from having zero online presence to becoming ready to sell in a very short time. They handle payments, marketing, shopping and customer engagement tools - the spectrum of services is spectacular. 
 
@@ -32,7 +32,7 @@ Various indicators of success are examined when it comes to this industry, some 
 By comparison, Magento, a major competitor, only had 100,000 online stores created using its platform. Shopify has an order of magnitude more customers - over 1 million.  $155 billion USD worth of goods have been sold through Magento-based systems in 2019, compared to $319 billion USD for Shopify.
 In terms of the search volume on Google, Shopify has a whopping 2.6 million. The next most are WooCommerce with 450k and Magento with 355k, respectively.
 
-Recommendations
+### Recommendations
 
 In my opinion, I have two services which I would recommend for Shopify, Inc. 
 The first is that they partner with a financing company to allow for businesses to leverage their product selling capabilities, which would also bolster overall activity on their platform. People need financing to run their business and so it would only make sense to have a strategic partner to aid them in the process.
@@ -40,7 +40,7 @@ They currently have many partners for payment methods, but they lack the lending
 This brings me to the second recommended service - a strategic partner or even a proprietary service to help people actually incorporate their business. This, of course, would have to vary depending on the country, however, fills in a missing key to the link in actually making these online merchants bring their business to life. In Canada, for example, I recommend they either create their own version of or partner with - Ownr. It's an online quick, easy and cheap service for Canadians to register their company hassle-free. They have a financial partnership with RBC. Maybe all 3 could work together to help build synergy.
 Tech involved would vary depending on whether it's simply partnering with or actually developing these services in-house. An array of programmers and software engineers would need to collaborate to help develop these capabilities - financing and business registration.
 
-REFERENCES
+### References
 
 https://www.statista.com/outlook/295/108/fintech/canada#market-users
 https://investingnews.com/daily/tech-investing/fintech-investing/canadian-fintech-stocks/
