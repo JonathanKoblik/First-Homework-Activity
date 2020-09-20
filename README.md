@@ -44,20 +44,37 @@ Tech involved would vary depending on whether it's simply partnering with compan
 ### References
 
 https://www.statista.com/outlook/295/108/fintech/canada#market-users
+
 https://investingnews.com/daily/tech-investing/fintech-investing/canadian-fintech-stocks/
+
 https://www.cfamontreal.org/static/uploaded/Files/Presentation/19-02-07-David_Nault_Rendez-Vous-Fintech_CFA-Montreal.pdf
+
 https://www.mondaq.com/canada/technology/875882/fintech-comparative-guide
+
 https://www.bankofcanada.ca/research/digital-currencies-and-fintech/research/
+
 https://www.mcinnescooper.com/publications/top-5-things-to-consider-when-launching-a-fintech-startup/
+
 https://finance.yahoo.com/quote/shop/profile/
+
 https://www.bdc.ca/en/articles-tools/business-strategy-planning/manage-business/pages/10-things-didnt-know-canadian-sme.aspx#:~:text=There%20are%20almost%201.1%20million,million%20people%20across%20the%20country.
+
 https://acquireconvert.com/shopify-statistics/
+
 https://ca.finance.yahoo.com/quote/SHOP.TO?p=SHOP.TO
+
 https://help.shopify.com/en
+
 https://en.wikipedia.org/wiki/Shopify
+
 https://www.owler.com/company/shopify
+
 https://ecommerce-platforms.com/ecommerce-resources/shopify-competitors
+
 https://acquireconvert.com/shopify-statistics/
+
 https://www.websitetooltester.com/en/blog/shopify-market-share/
+
 https://www.shopify.ca/enterprise/the-future-of-ecommerce
+
 https://www.ownr.co/
